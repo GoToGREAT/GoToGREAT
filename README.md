@@ -31,17 +31,6 @@
 
  <h3></h3>
  
-<p align="center">
-  <img style="height:150px;" src="https://github-readme-stats.vercel.app/api?username=GoToGREAT&theme=dracula&layout=compact"/>
-  <img style="height:150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoToGREAT&theme=dracula&layout=compact&langs_count=10"/>
-
-</p>
-
-<p align="center">
- <br>
-<img style="height:200px;" src="https://github-profile-trophy.vercel.app/?username=GoToGREAT&theme=flat&column=7&align=center"/>
-</p>
-
 <h1><img src="https://user-images.githubusercontent.com/54318460/165490580-5014fa53-5de5-4d39-9042-3ea43ea607d5.gif" width="40">Activity</h1> 
 
 
