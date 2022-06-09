@@ -7,10 +7,7 @@
 <Strong><h3>📧Email📧</h3></Strong>
 </div>
 <div align="center">
-<a href="mailto:codeeeeeeeeeeee2201@gmail.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="mailto:lyuns0813@gmail.com"></a>  
-<!--a href="mailto:주소"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="mailto:주소"--></a>
-<a href="mailto:remi981010@naver.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/-Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link="mailto:remi981010@naver.com"></a>
-<!--a href="주소"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="주소"--></a>
+<a href="mailto:codeeeeeeeeeeee2201@gmail.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="mailto:codeeeeeeeeeeee2201@gmail.com"></a>
 </div>
 <div align="center">
   <Strong><h3>⚒️Tech Stack⚒️</h3></Strong>
