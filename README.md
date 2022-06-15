@@ -20,7 +20,7 @@
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
   </br>
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" style="width:auto; height:30px;"/>
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
   </br>
