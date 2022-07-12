@@ -14,6 +14,7 @@
 
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" s>
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </br>
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
