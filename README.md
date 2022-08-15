@@ -14,7 +14,7 @@
 <Strong><h3>📝Resume📝</h3></Strong>
 </div>
 <div align="center">
-<a href="https://judicious-drive-164.notion.site/b55081ca70244ed0b76500b7fc3db680"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Notion-d14836?style=flat-square&logo=Notion&logoColor=white&link="https://judicious-drive-164.notion.site/b55081ca70244ed0b76500b7fc3db680"></a>
+<a href="https://judicious-drive-164.notion.site/b55081ca70244ed0b76500b7fc3db680"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Notion-FCC624?style=flat-square&logo=Notion&logoColor=white&link="https://judicious-drive-164.notion.site/b55081ca70244ed0b76500b7fc3db680"></a>
 </div>
 
 <div align="center">
