@@ -9,7 +9,8 @@
 <div align="center">
 <a href="mailto:codeeeeeeeeeeee2201@gmail.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="mailto:codeeeeeeeeeeee2201@gmail.com"></a>
 </div>
-
+ 
+<div align="center">
 <Strong><h3>📝Resume📝</h3></Strong>
 </div>
 <div align="center">
