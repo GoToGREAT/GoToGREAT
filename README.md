@@ -14,13 +14,13 @@
 <Strong><h3>📝Resume📝</h3></Strong>
 </div>
 <div align="center">
-<a href="https://judicious-drive-164.notion.site/b55081ca70244ed0b76500b7fc3db680"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Notion-fcc624?style=flat-square&logo=Notion&logoColor=white&link="https://judicious-drive-164.notion.site/b55081ca70244ed0b76500b7fc3db680"></a>
+<a href="https://judicious-drive-164.notion.site/b55081ca70244ed0b76500b7fc3db680"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Notion-fc624?style=flat-square&logo=Notion&logoColor=white&link="https://judicious-drive-164.notion.site/b55081ca70244ed0b76500b7fc3db680"></a>
 </div>
 
 <div align="center">
   <Strong><h3>⚒️Tech Stack⚒️</h3></Strong>
 
-  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" s>
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   </br>
