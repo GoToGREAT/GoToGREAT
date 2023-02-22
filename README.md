@@ -37,3 +37,4 @@
 <h1><img src="https://user-images.githubusercontent.com/54318460/165490580-5014fa53-5de5-4d39-9042-3ea43ea607d5.gif" width="40">Activity</h1> 
  
 [![GoToGREAT's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoToGREAT&show_icons=true&theme=vue)]
+[![GoToGREAT's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoToGREAT&show_icons=true&theme=vue)]
