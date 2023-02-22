@@ -38,5 +38,5 @@
  
 [![GoToGREAT's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoToGREAT&show_icons=true&theme=vue)]
 
-[![GoToGREAT's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GoToGREAT&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)]
+[![GoToGREAT's Github stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GoToGREAT&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)]
  
